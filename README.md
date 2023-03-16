@@ -3,7 +3,7 @@
 <p>
   Os créditos do projeto seguem abaixo. 
 
-  ## Realizei uma adaptação para se ajustar a minha necessidade.
+  Realizei uma adaptação para se ajustar a minha necessidade.
 </p>
 
 ## Laravel Docker Nginx PHP-FPM OP_CACHE
