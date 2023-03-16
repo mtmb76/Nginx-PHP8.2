@@ -1,13 +1,4 @@
-<h2> Projeto para implementação de DDS - Diálogo Diário de Segurança </h2>
-
-<p>
-  Esta é a versão final para deployment no cluster de produção.
-  Todos os novos deployments passarão por este branch, afim de termos sempre um controle dos fontes de produção.
-</p>
-
-<p>
-  Desenvolvido em Laravel 10
-</p>
+<h2> Pacote muito bom para incorporação em projetos Laravel </h2>
 
 ## Laravel Docker Nginx PHP-FPM OP_CACHE
 
@@ -20,8 +11,6 @@ Laravel Docker Nginx build using PHP-FPM and OP_CACHE.
 This build delivers top performance.
 
 By using nginx, php-fpm and op_cache, were able to reduce our request response times and serve requests in `5ms`!
-
-
 
 
 ## How to use?
