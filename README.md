@@ -1,9 +1,5 @@
-<h2> Pacote muito bom para incorporação em projetos Laravel </h2>
-
 <p>
-  Os créditos do projeto seguem abaixo. 
-
-  Realizei uma adaptação para se ajustar a minha necessidade.
+   This build going to transform your Laravel + Nginx project into a rocket! I've adopted some small pieces of code to fit to my necessity.
 </p>
 
 ## Laravel Docker Nginx PHP-FPM OP_CACHE
@@ -12,12 +8,13 @@ Course Videos: https://www.youtube.com/@ahtcloud
 
 Website: https://ahtcloud.com
 
-Laravel Docker Nginx build using PHP-FPM and OP_CACHE. 
+Laravel Docker Nginx build using PHP-FPM and OP_CACHE.
 
 This build delivers top performance.
 
 By using nginx, php-fpm and op_cache, were able to reduce our request response times and serve requests in `5ms`!
 
+Credits: https://github.com/emad-zaamout
 
 ## How to use?
 
@@ -44,7 +41,3 @@ Step 5: Run `docker compose build  && docker compose up --force-recreate -d`
 Default PHP port is 8000. Connect via `http://127.0.0.1:8000` or `http://localhost:8000`
 
 Default DB port is 3306.
-
-
-
-# deploy_config
